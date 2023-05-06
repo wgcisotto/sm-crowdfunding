@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/wgcisotto/sm-crowdfunding/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/wgcisotto/sm-crowdfunding/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/wgcisotto/sm-crowdfunding/tree/main.svg?style=svg&circle-token=b1382b52d2b3e60e0b17132f31b923f70fa47a82)](https://dl.circleci.com/status-badge/redirect/gh/wgcisotto/sm-crowdfunding/tree/main)
 [![codecov](https://codecov.io/gh/wgcisotto/sm-crowdfunding/branch/main/graph/badge.svg?token=1W8793GR5X)](https://codecov.io/gh/wgcisotto/sm-crowdfunding)
 
 # BLOC522 Spring 2023 – Project Assignment
