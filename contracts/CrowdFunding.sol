@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicense
 pragma solidity >=0.7.0 <0.9.0;
 
-contract CrowFunding {
+contract Crowdfunding {
 
     struct Project {
         uint256 id;
