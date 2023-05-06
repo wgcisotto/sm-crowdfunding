@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+# BLOC522 Spring 2023 – Project Assignment
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+## Crowdfunding
 
-Try running some of the following tasks:
+Smart contract for crowdfunding that meets specific requirements. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+The smart contract will allow project owners to list various projects and initiate crowdfunding campaigns for each project. 
+
+Users should be able to participate in the crowdfunding campaigns by interacting with the smart contract, such as sending funds.
+
