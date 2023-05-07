@@ -11,7 +11,7 @@ pragma solidity >=0.7.0 <0.9.0;
 * Users should be able to participate in the crowdfunding campaigns by 
 * interacting with the smart contract, such as sending funds.
 *
-* NOTE: Each function contains the `requirements` section with an detailed 
+* NOTE: Each function contains the `requirements` section with a detailed 
 * explanation of the requirement
 */
 contract Crowdfunding {
