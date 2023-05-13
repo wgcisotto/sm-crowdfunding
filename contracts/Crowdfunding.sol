@@ -59,7 +59,8 @@ contract Crowdfunding {
      * 
      * @param title Title of the project for funding 
      * @param desc Description of the project for funding 
-     * @param participationAmount Minimium participation amount. TODO: Should it be minimium or it should be the only amount allowed, and once participated, cannot participate again??
+     * @param participationAmount Minimium participation amount. 
+     * TODO: Should it be minimium or it should be the only amount allowed, and once participated, cannot participate again??
      *
      * Requirements:
      *
