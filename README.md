@@ -5,7 +5,7 @@
 
 ## [Crowdfunding](https://sepolia.etherscan.io/address/0xF241B32766781e867D08C9458Bb2939d687a7820)
 
-Smart contract for crowdfunding that meets specific requirements. The smart contract will allow project owners to list various projects and initiate crowdfunding campaigns for each project. Users should be able to participate in the crowdfunding campaigns by interacting with the smart contract, such as sending funds.
+[Smart contract for crowdfunding](contracts/Crowdfunding.sol) that meets specific requirements. The smart contract will allow project owners to list various projects and initiate crowdfunding campaigns for each project. Users should be able to participate in the crowdfunding campaigns by interacting with the smart contract, such as sending funds.
 
 ## Interaction with the code
 
