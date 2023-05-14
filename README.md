@@ -26,9 +26,9 @@ To see the currently available tasks run `yarn hardhat` or `npx hardhat`
 * [Get contribution by User](#get-contribution-by-user-address)
 * [Withdraw](#owner-withdraw-funds)
 
-> **Note:** To run on Goerli or Sepolia Network
+> **Note:** To run on Goerli or Sepolia Network.
 
-> Create `.env` file, see `.env.example`
+> Create `.env` file, see `.env.example` for more details.
 
 ### Deploy at Sepolia
 
