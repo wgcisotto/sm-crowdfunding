@@ -137,51 +137,28 @@ Withdraw successful! Transaction hash:  0x345e25a16715c9288b4aea7ca7e6e6c32e76e2
 
 ---
 
+> **Note:** You can use either `yarn` or `npm`
+
 ### Install dependencies
 
 ```shell
-yarn install
-```
-
-or
-
-```shell
-npm install
+yarn install || npm install
 ```
 
 ### Compile
 
 ```shell
-yarn hardhat compile
-```
-
-or
-
-```shell
-npx hardhat compile
+yarn hardhat compile || npx hardhat compile
 ```
 
 ### Tests
 
 ```shell
-yarn hardhat test
-```
-
-or
-
-```shell
-npx hardhat test
+yarn hardhat test || npx hardhat test
 ```
 
 ### Coverage
 
 ```shell
-yarn hardhat coverage
-```
-
-or
-
-
-```shell
-npx hardhat coverage
+yarn hardhat coverage || npx hardhat coverage
 ```
