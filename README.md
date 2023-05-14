@@ -16,7 +16,15 @@ Smart contract for crowdfunding that meets specific requirements. The smart cont
 
 ## Iteration with the Smart Contract
 
-To see the currently available tasks run `yarn hardhat` or `npx hardhat` 
+To see the currently available tasks run `yarn hardhat` or `npx hardhat`
+
+* [Deploy](#deploy-at-sepolia)
+* [Create Project](#create-project)
+* [Participate](#participate-in-a-project)
+* [Retrieve Project](#retrieve-project-details)
+* [Get all Projects](#get-all-projects)
+* [Get contribution by User](#get-contribution-by-user-address)
+* [Withdraw](#owner-withdraw-funds)
 
 > **Note:** To run on Goerli or Sepolia Network
 
