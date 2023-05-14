@@ -7,6 +7,15 @@
 
 [Smart contract for crowdfunding](contracts/Crowdfunding.sol) that meets specific requirements. The smart contract will allow project owners to list various projects and initiate crowdfunding campaigns for each project. Users should be able to participate in the crowdfunding campaigns by interacting with the smart contract, such as sending funds.
 
+### Project is structured as follows:
+    .
+    ├── contracts               # Smart Contracts
+    ├── scripts                 # Scripts
+    ├── tasks                   # Interactions Hardhat Tasks
+    ├── tests                   # Automated tests
+    └── README.md
+
+
 ## Interaction with the code
 
 1) [Install the dependencies](#install-dependencies), you may use either yarn or npm
